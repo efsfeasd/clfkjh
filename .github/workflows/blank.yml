@@ -1,0 +1,71 @@
+国内版国际版
+github action 自动
+网页图片视频学术词典地图
+21 - 30 条结果(共 32,500,000 条)时间不限
+GitHub Actions 实现自动部署静态博客_Geordies的博客 ...
+https://blog.csdn.net/zhou_xi_long/article/details/118082751
+2019-12-27 · # GitHub Actions 实现自动部署静态博客 # 前言 我使用vuepress搭建了一个静态博客，挂在了Github pages和Coding pages (opens new window)上面。 coding pages在国内的访问速度比github pages要快很多，而且还可以被百度收录。 一开始的部署方式 ...
+
+使用Github Action实现全自动部署 | Akilarの糖果屋
+https://akilar.top/posts/f752c86d
+2020-9-22 · Gitee 用 github action 自动部署更新收到短信，提示异地登录需要验证码。. 因为 github action 使用的是美国的服务器，所以，使用 github action 来远程更新 gitee 的站点部署时，会收到异地登陆的短信，提示需要验证码。. 这个在脚本作者的 issues 里有相应的解决方案 ...
+
+使用 GitHub Actions 自动执行开发任务 - Learn | Microsoft Docs
+https://docs.microsoft.com/.../github-actions-automate-tasks
+在本模块中，你将：. 介绍 GitHub Actions、操作类型和查找方法. 使用 GitHub Actions 工作流来计划自动执行软件开发生命周期. 创建容器操作，并使其在推送事件（向 GitHub 存储库推送）触发的工作流中运行. …
+
+github action 自动部署
+https://www.nginx.cn/6148.html
+2020-12-3 · 首页 > linux > github action 自动 部署 github action 自动部署 2020年12月3日 mood 发表评论 阅读评论 1.新建Personal access tokens 点击自己头像，选择 Settings ： 在左边栏选择 …
+
+GitHub 的 Action 接入 Stryker.NET 进行自动化测试单元 ...
+https://blog.lindexi.com/post/GitHub-的-Action-接入...
+2 小时前 · 大家都知道 GitHub 的 Action 可以非常方便将 dotnet tool 加入到工具链中，刚好 Stryker.NET 也是通过 dotnet tool 发布的，因此在 GitHub 的 Action 上接入十分简单 在 GitHub 的 Action 用上 Stryker.NET 就可以自动测试一下自己编写的单元测试的鲁棒性，看看单元测试是否能帮忙拦下一些不符合预期的行为变更。
+
+通过GitHub Action自动部署Maven项目 - SegmentFault 思否
+https://segmentfault.com/a/1190000037769892
+2020-11-8 · 把代码推送到 Github 上，就可以看到对应的Action了，上面示例中有两种方式来触发构建： 手动触发 通过 Github 可以手动的触发构建，方便测试，操作如下图： 发布 release 时自动触发 在 Github 项目中创建 release，会自动的触发构建，适用于项目稳定之后。
+
+GitHub Actions 入门教程 - 阮一峰的网络日志
+www.ruanyifeng.com/blog/2019/09/getting-started-with...
+2019-9-12 · GitHub Actions 是 GitHub 的持续集成服务，于2018年10月推出。 这些天，我一直在试用，觉得它非常强大，有创意，比 Travis CI 玩法更多。 本文是一个简单教程，演示如何使用 GitHub Actions 自动发布一个 React 应用到 GitHub Pages。 一、GitHub
+
+使用github action自动推送你的镜像到dockerhub | Bboysoul's ...
+https://www.bboy.app/2020/09/24/使用github action自动...
+2020-9-24 · 使用github action自动推送你的镜像到dockerhub. 发表于 2020-09-24 更新于 2021-07-13 分类于 linux. 简介. 其实github action出来已经很久了，但是我一直没有什么场景去使用他，之前写了一个xiaomi路由器的exporter，正好试一试. 操作. 首先clone一下代码. git clone https://github.com ...
+
+github Action自动构建android项目 | 天问博客
+blog.yoqi.me/lyq/16666.html
+2019-9-17 · 由于在windows中开发，而github action启动的是Ubuntu进行构建，调用的是./gradlew build。. 。. 而 gradlew 默认没有执行权限！. 需要git index记录一下：. git update-index --chmod=+x gradlew git add . git commit -m "Changing permission of gradlew" git push.
+
+利用github actions贴吧自动签到脚本_哔哩哔哩_bilibili
+https://www.bilibili.com/video/BV16A411n7SK
+2020-8-29 · 利用github actions贴吧自动签到脚本. 1.9万播放 · 1弹幕 2020-08-29 07:46:29. 正在缓冲... 播放器初始化... 加载视频内容... 35 52 17 2. 动态 微博 QQ QQ空间 贴吧. 将视频贴到博客或论坛.
+
+github action 自动 的相关搜索
+fk币
+uo官网
+自动晾衣架
+作文批改网
+自动汉化更新
+yg官网入口
+目录怎么自动生成
+xvessel中国官网
+1
+2
+3
+4
+5
+6
+7
+相关搜索
+fk币
+uo官网
+自动晾衣架
+作文批改网
+自动汉化更新
+yg官网入口
+目录怎么自动生成
+xvessel中国官网
+© 2021 Microsoft
+增值电信业务经营许可证：合字B2-20090007京ICP备10036305号-7京公网安备11010802022657号隐私声明和 Cookie法律声明广告帮助反馈
